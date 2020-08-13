@@ -1,3 +1,5 @@
+// for loop program
+
 fun main()
 {
     val a = arrayOf("a", "b", "c", "d", "e")

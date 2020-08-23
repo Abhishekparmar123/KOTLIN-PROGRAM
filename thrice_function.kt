@@ -4,4 +4,3 @@ fun main()
 }
 
 fun timesThree(x:Int):  Int = x * 3
-
